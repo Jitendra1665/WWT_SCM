@@ -1,0 +1,67 @@
+http://qtp.blogspot.in/2010/10/vbscript-eval-execute.html  - QTP related.
+
+JAVA - API _ Documentation - http://docs.oracle.com/javase/
+
+Videos for Automation - http://www.seleniumtests.com/p/testing-video-tutorials.html
+
+
+
+1. Page Object Pattern - POM - http://assertselenium.com/automation-design-practices/page-object-pattern/
+
+2. Page Object Model - POM - http://www.f14testing.com/archives/1532
+3. Page Object Model - POM - http://selenium-tutorial.blogspot.in/2012/06/webdriver-page-objects-pattern.html
+4. Page Object Model - POM - http://code.google.com/p/selenium/wiki/PageObjects
+
+5. Reading Data from CSV files - http://viralpatel.net/blogs/java-read-write-csv-file/
+6. CSV jar file - 
+http://www.findjar.com/jar/milyn/opencsv/1.6/opencsv-1.6.jar.html;jsessionid=50434EE13568AA7A067FE16F69341218
+http://selftechy.com/2011/06/19/selenium-parameterization-using-csv-file - csv file read code. 
+
+
+http://selenium.googlecode.com/git/docs/api/java/index.html?org/openqa/selenium/WebDriver.html
+
+How to Install TestNG for Eclipse - http://selftechy.com/2012/01/09/setting-up-testng-with-eclipse
+
+SVN Subversive
+
+http://www.eclipse.org/subversive/documentation/gettingStarted/aboutSubversive/install.php
+http://www.eclipse.org/subversive/installation-instructions.php
+http://www.visualsvn.com/server/getting-started/
+
+
+Selenium Server - Grid 
+
+http://www.guru99.com/introduction-to-selenium-grid.html
+
+Read the URL("http://localhost:4444/wd/hub"  from properties files, if possible. This way when we make node and hub as separate machine we can simply change the properties file.
+http://blog.wedoqa.com/2013/07/how-to-run-parallel-tests-with-selenium-webdriver-and-testng-2/
+
+QTP - http://www.guru99.com/quick-test-professional-qtp-tutorial.html
+
+http://svn.spears.at/
+
+using chrome driver in remote - http://code.google.com/p/selenium/wiki/ChromeDriver
+Chorme driver downloads - http://code.google.com/p/chromedriver/downloads/list
+
+0ptima - 70 PKMs - 40,000
+Deepa Nursing Home
+
+http://opencsv.sourceforge.net/xref-test/integrationTest/issue3189428/CsvSample.html - CSV Rader code
+
+http://www.csvreader.com/java_csv.php - csv java download
+http://sourceforge.net/projects/javacsv/?source=recommended - CSV api jar download
+
+http://viralpatel.net/blogs/java-read-write-csv-file/ - CSV file format reading.
+
+
+http://www.youtube.com/watch?v=T0jmN200OCc - soup ui
+
+http://www.youtube.com/watch?v=8NLeq-QxkSw - jmetere - stess testing
+
+http://www.youtube.com/watch?v=pYtZQ4Dyzvg - Load Test using jmeter
+
+http://www.youtube.com/user/tarun3kumar/videos - selenium tutorials
+
+http://www.youtube.com/watch?v=urjZOc1NfFI - soft assertion and hard assertion
+
+http://www.youtube.com/watch?v=6ueuLVZTDkk - How TEsting frame works can be developed
